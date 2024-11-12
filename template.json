@@ -1,0 +1,7 @@
+{
+  "name": "wails angular template",
+  "shortname": "wails-ng",
+  "author": "ilip",
+  "description": "A template for creating Wails applications with Angular",
+  "helpurl": "https://github.com/ilip/wails-ng"
+}
